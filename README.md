@@ -22,3 +22,7 @@ The CSS file is structured using CSS custom properties for theme colors (light a
 
 In conclusion, this project is a solid example of integrating a large language model with a custom-built front end, ideal for learning modern web development practices such as DOM manipulation, REST API integration, theme persistence, and responsive design. It also demonstrates practical usage of browser storage APIs and user interface interactivity using native JavaScript—without relying on external frameworks like React or Vue. This makes it a lightweight and efficient chatbot UI that can be further extended or customized based on individual or enterprise-level needs.
 
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/ca0f037e-7a64-49d9-b2df-fcc82afb2388)
